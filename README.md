@@ -47,6 +47,10 @@ Use NLP libraries for better input handling
 
 Build a web interface with Flask or Streamlit
 
+
+**Link for the screenshots  of the chatbot and .py files**
+https://1drv.ms/i/c/149464d8901c5efc/EZBsv2lEDBJOtU1uUC1-ftsBZFeWgVUSwL3lPlPSqF3V_Q?e=bCR6VI
+
 📄 License
 MIT
 Let me know if you'd like me to generate a `requirements.txt` or starter `chatbot.py` file as well!
